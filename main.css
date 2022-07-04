@@ -1,0 +1,73 @@
+body{
+    background: #589ed9;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+#loginform{
+    
+}
+
+#main{
+    width: 220px;
+	margin: 75px auto;
+	text-align: center;
+	color: #FFF; 
+}
+
+#logo{
+    font-size: 50px;
+	padding: 0;
+	margin: 0 auto;
+}
+
+
+
+#loginform input[type=submit] {
+    background: #2186d4;
+    font-weight: bold;
+    font-size: 1.2em;
+    height: 45px;
+    color: #fff;
+    border: none;
+    margin-top: 15px;
+    border-radius: 6px;
+    line-height: 0;
+    width: 100%;
+}
+
+#loginform input[type=email] {
+   
+    
+    font-size: 15px;
+    height: 45px;
+   
+    border: none;
+    margin-top: 15px;
+    border-radius: 6px;
+    line-height: 0;
+    width: 100%;
+    text-indent: 20px;
+}
+
+
+
+#loginform input[type=password] {
+   
+    
+    font-size: 15px;
+    height: 45px;
+    
+    border: none;
+    margin-top: 15px;
+    border-radius: 6px;
+    line-height: 0;
+    width: 100%;
+    text-indent: 20px;
+}
+
+#footer p a {
+	font-weight: 600;
+	text-decoration: none;
+	color: #fff;
+}
